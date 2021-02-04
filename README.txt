@@ -1,8 +1,8 @@
-##Personal Online Portfolio
-v 1.01
+### Personal Online Portfolio
+v 1.11
 
 Update(s):
-	Typo error
+	CV update
 
 
 Credits:
